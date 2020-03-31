@@ -4,13 +4,13 @@ My first MQTT project
 ## Getting Started
 Deze handleiding laat je zien hoe je mijn MQTT project kan laten werken op jouw PC.
 
-##Wat heb je nodig?
+## Wat heb je nodig?
 Je hebt een MQTT broker nodig om mijn subscriber of publisher te gebruiken.
 
-##Installeren
+## Installeren
 Je hebt de paho-mqtt package nodig verder hoef je alleen de code te runnen.
 
-##Testen en Gebruiken
+## Testen en Gebruiken
 Voor een makkelijke test kan je een eigen broker draaien op je PC bijv. mosquitto. 
 Je kan dan bij host je eigen loopback adress invullen(127.0.0.1).
 Subscriber.py is de subscriber.
